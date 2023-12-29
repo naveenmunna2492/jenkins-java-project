@@ -8,9 +8,6 @@ pipeline {
     }
 
   }
-}sfhsjnfsjn
-mjrjrf}
-ngtrujgnvunntutugnvunvtj
-yygyt
+}
 
 
